@@ -15,10 +15,6 @@ export default defineConfig({
 					label: 'Уроки по Dart',
 					autogenerate: { directory: 'dart/lessons/' },
 				},
-				{
-					label: 'Уроки по Flutter',
-					autogenerate: { directory: 'flutter/lessons/' },
-				},
 			],
 
 		}),
