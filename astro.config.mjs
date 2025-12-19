@@ -6,8 +6,7 @@ import starlightAutoSidebar from 'starlight-auto-sidebar';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://andreykuzovlevv.github.io',
-	base: '/learning_docs',
+	site: 'https://learningdart.github.io',
 	integrations: [
 		starlight({
 			title: '{Name}',
